@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction to the Book](README.md)
+
+## Artificial Intelligence
+
+* [AI Midterm2 Review](artificial-intelligence/ai-midterm2-review.md)
 
